@@ -4,5 +4,13 @@ public class Rock {
 	
 	public Rock(){	
 	}
-
+	public Rock vs(Scissor scissors){
+		return this;
+	}
+	public Paper vs(Paper paper){
+		return paper;
+	}
+	public Rock vs(Rock rock){
+		return this;
+	}
 }
