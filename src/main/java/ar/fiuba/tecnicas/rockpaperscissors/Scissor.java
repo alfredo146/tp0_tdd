@@ -1,3 +1,9 @@
+/*
+ * Class Scissor
+ * Author: Ackermann Alfredo A.
+ * Padrón: 90251
+ */
+
 package ar.fiuba.tecnicas.rockpaperscissors;
 
 public class Scissor {
